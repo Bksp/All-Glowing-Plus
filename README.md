@@ -2,7 +2,7 @@
  ![](https://raw.githubusercontent.com/Bksp/All-Glowing-Plus/main/.demos/ores.png)
  ![](https://github.com/Bksp/All-Glowing-Plus/blob/main/.demos/minecraft_adds.png)
  ![](https://raw.githubusercontent.com/Bksp/All-Glowing-Plus/main/.demos/create%20zinc%20cut.png)
-![](https://raw.githubusercontent.com/Bksp/All-Glowing-Plus/main/.demos/create_redstone.png)
+ ![](https://raw.githubusercontent.com/Bksp/All-Glowing-Plus/main/.demos/create_redstone.png)
  ![](https://raw.githubusercontent.com/Bksp/All-Glowing-Plus/main/.demos/galosphere%20silver%20cut.png)
  ![](https://raw.githubusercontent.com/Bksp/All-Glowing-Plus/main/.demos/galosphere%20blocks.png)
  ![](https://raw.githubusercontent.com/Bksp/All-Glowing-Plus/main/.demos/waystone%20warpplate%20cut.png)
