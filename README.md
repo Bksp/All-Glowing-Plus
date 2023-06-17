@@ -23,5 +23,5 @@
 + Added Create Redstone
 + Added Thermal Series Ores and Blocks
 
-Some Fixed Textures
+Some Fixed Textures!
 # _Feel free to use. I would appreciate if you refer me to reupload it...._
