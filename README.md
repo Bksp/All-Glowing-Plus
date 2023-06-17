@@ -12,13 +12,15 @@
  ![](https://github.com/Bksp/All-Glowing-Plus/blob/main/.demos/thermal_series_b.png)
 
 # Requires [Optifine](https://www.optifine.net/downloads)
-# 2.0
+# 3.0
 
 + Added Galosphere Support (Blocks & Mobs)
 + Added Biomes O Plenty (Blocks)
 + Waystones (Warp Plate Fix)
 + Added some Cataclysm (Blocks)
 + Added Quark Corundum
++ Added Create Redstone
++ Added Thermal Series Ores and Blocks
 
 Some Fixed Textures
 # _Feel free to use. I would appreciate if you refer me to reupload it...._
