@@ -8,6 +8,8 @@
  ![](https://github.com/Bksp/All-Glowing-Plus/blob/main/.demos/cataclysm_void.png)
  ![](https://github.com/Bksp/All-Glowing-Plus/blob/main/.demos/pure%20crystals%20alt.png)
  ![](https://github.com/Bksp/All-Glowing-Plus/blob/main/.demos/quark_corundum.png)
+ ![](https://github.com/Bksp/All-Glowing-Plus/blob/main/.demos/thermal_series.png)
+ ![](https://github.com/Bksp/All-Glowing-Plus/blob/main/.demos/thermal_series_b.png)
 
 # Requires [Optifine](https://www.optifine.net/downloads)
 # 2.0
